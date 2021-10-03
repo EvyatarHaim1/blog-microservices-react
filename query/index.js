@@ -25,7 +25,7 @@ app.post('/events', (req, res) => {
         const { id, content, postId } = data;
 
         const post = posts[postId];
-        post.comments.push({ id, content });
+        post.comments.push({ id, content, status });
     }
 
     console.log(posts);
