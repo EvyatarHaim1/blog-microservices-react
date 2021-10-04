@@ -1,5 +1,8 @@
 # blog-Microservices-App
 
-blog-Microservices App - Node.js &amp; React
+blog-App :
 
-Bootstaps styles
+- Microservices architecture
+- Node.js(Express)
+- React.js
+- Bootstraps style
